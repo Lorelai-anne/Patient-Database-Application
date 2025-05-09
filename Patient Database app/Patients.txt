@@ -1,0 +1,12 @@
+Sarah,Wilson,123456789,01/15/1985,666 Street Street,richmond,NEW_YORK,1234567890,Actos
+Bob,Smith,987654321,05/20/1978,456 Oak Avenue,Sometown,NEW_YORK,5559876543,Amoxicillin-Azithromycin-Atenolol
+Emily,Davis,456789123,09/10/1990,789 Elm Street,Anothertown,TEXAS,5554567890,Atenolol
+David,Wilson,789123456,03/25/1982,321 Pine Road,Yetanothertown,FLORIDA,5557891234,Celebrex-Meloxicam
+Sarah,Brown,321654987,11/05/1976,654 Cedar Lane,Lasttown,OHIO,5553216549,Gabapentin-Tramadol
+Michael,Miller,654987321,07/30/1988,987 Birch Drive,Firsttown,MICHIGAN,5556549873,Lexapro-Wellbutrin
+Jessica,Martinez,159357852,02/12/1980,159 Willow Court,Smalltown,ILLINOIS,5558527413,Lorazepam-Prozac
+Christopher,Garcia,369258147,06/18/1984,369 Maple Circle,Middletown,PENNSYLVANIA,5551472589,Losartan-Amoxicillin
+Ashley,Rodriguez,258741369,08/22/1986,258 Cherry Street,Bigtown,GEORGIA,5553697418,Trazodone
+James,Lopez,147258369,04/29/1974,147 Walnut Avenue,Largetown,WASHINGTON,5552369857,Allopurinol-Benzonatate
+first,last,123459876,01/02/1234,222 road,townTown,LOUISIANA,1112223456,celexa-crestor-cyclobenzaprine
+Name,Name,999999999,01/02/9876,222 st,city town,FLORIDA,4445556666,ativan
